@@ -9,7 +9,7 @@
     },
     "dependencies": {
   "express": "^5.2.1",
-  "mongoose": "^8.10.0",
+  "bullmq":"^5.8.0",
   "ioredis": "^5.8.1"
 }
 }
